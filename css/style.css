@@ -12,7 +12,13 @@
 .fw-semi-bold {
     font-weight: 700 !important;
 }
-
+.whatsapp{
+    position:fixed;
+    bottom:40px;
+    right:40px;
+    border-radius:50%;
+    z-index:1;
+}
 .back-to-top {
     position: fixed;
     display: none;
