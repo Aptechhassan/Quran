@@ -438,3 +438,7 @@
     padding-right: 0;
     border-right: none;
 }
+.border{
+    border: none;
+    border-radius: 10px;
+}
